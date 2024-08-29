@@ -1,6 +1,6 @@
-# vessel-proximity
 
-# Vessel Proximity Detection using Google Colab
+
+# Vessel Proximity Detection using Python in Google Colab
 
 ## Overview
 This project detects proximity events between vessels in a marine region using the Haversine formula to calculate distances based on latitude and longitude data.
